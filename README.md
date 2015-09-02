@@ -1,2 +1,2 @@
 # File-Encode-Decode
-Encoding and decoding txt file. For example, check decode.txt and encoding.txt
+Java Desktop Application for encoding and decoding txt file. For example, check decode.txt and encoding.txt
